@@ -28,7 +28,7 @@
   - 🌍 Social impact projects
 
 - 📫 Reach me at:
-  - 🌐 LinkedIn: https://www.linkedin.com/in/thimira-navodana-tn23
+  - 🌐 LinkedIn: https://www.linkedin.com/in/itz-thimira
   - 📧 Email: thimiranavodana2002@gmail.com
 
 - 😄 Pronouns: **He / Him**
