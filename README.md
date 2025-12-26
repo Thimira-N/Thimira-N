@@ -36,6 +36,16 @@
 - ⚡ Fun fact:  
   I’m like a digital Swiss Army knife — *Analyst, Designer, Developer,* and occasionally... a meme lord 😎
 
+
+- 👀 What have I done so far:
+     - https://kasuns.vercel.app/
+     - https://neo-metropolis.vercel.app/
+     - https://thimira-navodana.vercel.app/
+     - https://todo-cabin.vercel.app/
+     - https://hfo-clothing.vercel.app/
+     - https://cine-sphere-nine.vercel.app/
+  
+
 ---
 
 ## 🛠️ Tech Stack
