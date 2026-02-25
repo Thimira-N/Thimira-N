@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning:
   - ⚛️ React Native & React Native Animations
   - 🎞️ Reanimated 3
-  - ⚡ ReactJS & NextJS
+  - ⚡ ThreeJs, GSAP
   - 🧱 Advanced System Design concepts
 
 - 💞️ Looking to collaborate on:
@@ -29,7 +29,7 @@
 
 - 📫 Reach me at:
   - 🌐 LinkedIn: https://www.linkedin.com/in/itz-thimira
-  - 📧 Email: thimiranavodana2002@gmail.com
+  - 📧 Email: thimiranavodana@gmail.com
 
 - 😄 Pronouns: **He / Him**
 
@@ -52,8 +52,8 @@
 
 ```bash
 💻 Languages:    JavaScript (ES6+), TypeScript, Java
-⚛️ Frontend:     ReactJS, React Native, TailwindCSS, Vite
+⚛️ Frontend:     ReactJS, NextJS, React Native, TailwindCSS, Vite
 📱 Mobile Dev:   React Native, NativeWind, Reanimated
-🛠️ Tools:        Figma, Git, Firebase, AppWrite, Expo
+🛠️ Tools:        Figma, Git, Firebase, Supabase, AppWrite, Expo
 🌐 Backend:      Node.js, Express, MongoDB
 
