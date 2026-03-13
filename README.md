@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG — emojis percent-encoded so the URL doesn't break -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Engineer+%F0%9F%A4%96;React+Native+Craftsman+%F0%9F%93%B1;UI%2FUX+Obsessive+%F0%9F%8E%A8;Web+Architect+%F0%9F%8C%90;Open+Source+Contributor+%E2%9A%A1;Certified+Meme+Lord+%F0%9F%98%8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Engineer+%F0%9F%A4%96;React+Native+Craftsman+%F0%9F%93%B1;UI%2FUX+Obsessive+%F0%9F%8E%A8;Web+Architect+%F0%9F%8C%90;Open+Source+Contributor+%E2%9A%A1;Certified+Meme+Lord+%F0%9F%98%8E" alt="Typing SVG" />
 </a>
 
 <br/>
