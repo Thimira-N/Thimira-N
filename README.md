@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Thimira%20Navodana&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descSize=18&descAlignY=60&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Thimira%20Navodana&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descSize=18&descAlignY=60&animation=twinkling&fontFamily=VT323&v=2" width="100%"/>
 
 <!-- TYPING SVG — emojis percent-encoded so the URL doesn't break -->
 <a href="https://git.io/typing-svg">
